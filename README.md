@@ -1,1 +1,1 @@
-The test repository iz for learning.
+The test repository is for learning.
