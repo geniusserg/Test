@@ -1,0 +1,133 @@
+0 | 0 | Cleaner | 10 | |
+1 | 1 | Cleaner | 10 | |
+2 | 2 | Cleaner | 10 | |
+3 | 3 | Cleaner | 10 | |
+4 | 4 | Cleaner | 10 | |
+5 | 5 | Cleaner | 10 | |
+6 | 6 | Cleaner | 10 | |
+7 | 7 | Cleaner | 10 | |
+8 | 8 | Cleaner | 10 | |
+9 | 9 | Cleaner | 10 | |
+10 | 10 | Cleaner | 10 | |
+11 | 11 | Cleaner | 10 | |
+12 | 12 | Cleaner | 10 | |
+13 | 13 | Cleaner | 10 | |
+14 | 14 | Cleaner | 10 | |
+15 | 15 | Cleaner | 10 | |
+16 | 16 | Cleaner | 10 | |
+17 | 17 | Cleaner | 10 | |
+18 | 18 | Cleaner | 10 | |
+19 | 19 | Cleaner | 10 | |
+20 | 20 | Cleaner | 10 | |
+21 | 21 | Cleaner | 10 | |
+22 | 22 | Cleaner | 10 | |
+23 | 23 | Cleaner | 10 | |
+24 | 24 | Cleaner | 10 | |
+25 | 25 | Cleaner | 10 | |
+26 | 26 | Cleaner | 10 | |
+27 | 27 | Cleaner | 10 | |
+28 | 28 | Cleaner | 10 | |
+29 | 29 | Cleaner | 10 | |
+30 | 30 | Driver | 20 | |
+31 | 31 | Driver | 20 | |
+32 | 32 | Driver | 20 | |
+33 | 33 | Driver | 20 | |
+34 | 34 | Driver | 20 | |
+35 | 35 | Driver | 20 | |
+36 | 36 | Driver | 20 | |
+37 | 37 | Driver | 20 | |
+38 | 38 | Driver | 20 | |
+39 | 39 | Driver | 20 | |
+40 | 40 | Driver | 20 | |
+41 | 41 | Driver | 20 | |
+42 | 42 | Driver | 20 | |
+43 | 43 | Driver | 20 | |
+44 | 44 | Driver | 20 | |
+45 | 45 | Driver | 20 | |
+46 | 46 | Driver | 20 | |
+47 | 47 | Driver | 20 | |
+48 | 48 | Driver | 20 | |
+49 | 49 | Driver | 20 | |
+50 | 50 | Driver | 20 | |
+51 | 51 | Driver | 20 | |
+52 | 52 | Driver | 20 | |
+53 | 53 | Driver | 20 | |
+54 | 54 | Driver | 20 | |
+55 | 55 | Driver | 20 | |
+56 | 56 | Driver | 20 | |
+57 | 57 | Driver | 20 | |
+58 | 58 | Driver | 20 | |
+59 | 59 | Driver | 20 | |
+60 | 60 | Programmer | 30 | github |
+61 | 61 | Programmer | 30 | github |
+62 | 62 | Programmer | 30 | github |
+63 | 63 | Programmer | 30 | github |
+64 | 64 | Programmer | 30 | github |
+65 | 65 | Programmer | 30 | github |
+66 | 66 | Programmer | 30 | github |
+67 | 67 | Programmer | 30 | github |
+68 | 68 | Programmer | 30 | github |
+69 | 69 | Programmer | 30 | github |
+70 | 70 | Programmer | 30 | github |
+71 | 71 | Programmer | 30 | github |
+72 | 72 | Programmer | 30 | github |
+73 | 73 | Programmer | 30 | github |
+74 | 74 | Programmer | 30 | github |
+75 | 75 | Programmer | 30 | gitlab |
+76 | 76 | Programmer | 30 | gitlab |
+77 | 77 | Programmer | 30 | gitlab |
+78 | 78 | Programmer | 30 | gitlab |
+79 | 79 | Programmer | 30 | gitlab |
+80 | 80 | Programmer | 30 | gitlab |
+81 | 81 | Programmer | 30 | gitlab |
+82 | 82 | Programmer | 30 | gitlab |
+83 | 83 | Programmer | 30 | gitlab |
+84 | 84 | Programmer | 30 | gitlab |
+85 | 85 | Programmer | 30 | gitlab |
+86 | 86 | Programmer | 30 | gitlab |
+87 | 87 | Programmer | 30 | gitlab |
+88 | 88 | Programmer | 30 | gitlab |
+89 | 89 | Programmer | 30 | gitlab |
+90 | 90 | Tester | 30 | gitlab |
+91 | 91 | Tester | 30 | gitlab |
+92 | 92 | Tester | 30 | gitlab |
+93 | 93 | Tester | 30 | gitlab |
+94 | 94 | Tester | 30 | gitlab |
+95 | 95 | Tester | 30 | gitlab |
+96 | 96 | Tester | 30 | gitlab |
+97 | 97 | Tester | 30 | gitlab |
+98 | 98 | Tester | 30 | gitlab |
+99 | 99 | Tester | 30 | gitlab |
+100 | 100 | Tester | 30 | gitlab |
+101 | 101 | Tester | 30 | gitlab |
+102 | 102 | Tester | 30 | gitlab |
+103 | 103 | Tester | 30 | gitlab |
+104 | 104 | Tester | 30 | gitlab |
+105 | 105 | Tester | 30 | github |
+106 | 106 | Tester | 30 | github |
+107 | 107 | Tester | 30 | github |
+108 | 108 | Tester | 30 | github |
+109 | 109 | Tester | 30 | github |
+110 | 110 | Tester | 30 | github |
+111 | 111 | Tester | 30 | github |
+112 | 112 | Tester | 30 | github |
+113 | 113 | Tester | 30 | github |
+114 | 114 | Tester | 30 | github |
+115 | 115 | Tester | 30 | github |
+116 | 116 | Tester | 30 | github |
+117 | 117 | Tester | 30 | github |
+118 | 118 | Tester | 30 | github |
+119 | 119 | Tester | 30 | github |
+120 | 120 | Manager | 25 | gitlab |
+121 | 121 | Manager | 25 | gitlab |
+122 | 122 | Manager | 25 | gitlab |
+123 | 123 | Manager | 25 | github |
+124 | 124 | Manager | 25 | github |
+125 | 125 | Manager | 25 | github |
+126 | 126 | TeamLeader | 50 | gitlab |
+127 | 127 | TeamLeader | 50 | gitlab |
+128 | 128 | TeamLeader | 50 | github |
+129 | 129 | TeamLeader | 50 | github |
+130 | 130 | ProjectManager | 100 | github |
+131 | 131 | ProjectManager | 100 | gitlab |
+132 | 132 | SeniorManager | 100000 | |
